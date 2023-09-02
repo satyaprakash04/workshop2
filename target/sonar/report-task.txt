@@ -1,0 +1,6 @@
+projectKey=workshop
+serverUrl=http://localhost:9099
+serverVersion=10.1.0.73491
+dashboardUrl=http://localhost:9099/dashboard?id=workshop
+ceTaskId=AYpLKuo4l94X1r41Cdxg
+ceTaskUrl=http://localhost:9099/api/ce/task?id=AYpLKuo4l94X1r41Cdxg
